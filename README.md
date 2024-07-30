@@ -10,4 +10,5 @@ Plugin Link: [Automatic Scaling](https://create.roblox.com/store/asset/187267935
 
 > [!NOTE]
 > This plugin is in very early development, expect bugs, inperfect scaling, etc.
+> I also do plan on making a widget for this plugin aswell in the future.
 
